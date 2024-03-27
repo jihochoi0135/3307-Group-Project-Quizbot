@@ -1,0 +1,8 @@
+james,500,science,easy
+ed,400,science,medium
+jack,400,random,easy
+kim123,400,politics,medium
+sung,300,culture,hard
+jude,200,sports,medium
+oliver,100,random,hard
+anna,0,geography,easy
